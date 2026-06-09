@@ -54,7 +54,7 @@ The business needed to:
 The 5W framework was used to structure the problem clearly before 
 jumping into analysis.
 
-![5W Framework](image/s1.png)
+![5W Framework](image/s6.png)
 
 | Question | Answer |
 |---|---|
@@ -70,7 +70,7 @@ jumping into analysis.
 Interview questions were framed under each SPIN category to understand 
 the problem from the sales team's perspective.
 
-![SPIN Framework](image/s2.png)
+![SPIN Framework](image/s5.png)
 
 **Situation** — What does the current pipeline look like?
 **Problem** — Where are leads dropping off?
@@ -86,7 +86,7 @@ The MECE (Mutually Exclusive Collectively Exhaustive) Issue Tree was used
 to break the problem into 5 distinct branches covering all dimensions 
 of the business without overlap.
 
-![Hypothesis Tree](image/s3.png)
+![Hypothesis Tree](image/s4.png)
 
 ### 5 Branches of the Issue Tree
 
@@ -110,7 +110,7 @@ of the business without overlap.
 ---
 
 ### 1. Technology Primary
-![Technology Primary Chart](image/s4.png)
+![Technology Primary Chart](image/s3.png)
 
 | Technology | Conversion Rate |
 |---|---|
@@ -126,7 +126,7 @@ Legacy Modernization is a clear underperformer.
 ---
 
 ### 2. B2B Sales Medium
-![B2B Sales Medium Chart](image/s5.png)
+![B2B Sales Medium Chart](image/s2.png)
 
 | Channel | Conversion Rate |
 |---|---|
@@ -227,7 +227,7 @@ Competitive intelligence is a meaningful differentiator.
 
 ## ✅ Final Recommendations
 
-![Recommendations](image/s6.png)
+![Recommendations](image/s1.png)
 
 | # | Recommendation | Based On |
 |---|---|---|
