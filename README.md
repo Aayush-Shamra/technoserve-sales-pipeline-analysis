@@ -126,7 +126,7 @@ Legacy Modernization is a clear underperformer.
 ---
 
 ### 2. B2B Sales Medium
-![B2B Sales Medium Chart](image/s2.png)
+![B2B Sales Medium Chart](image/s1.png)
 
 | Channel | Conversion Rate |
 |---|---|
@@ -227,7 +227,7 @@ Competitive intelligence is a meaningful differentiator.
 
 ## ✅ Final Recommendations
 
-![Recommendations](image/s1.png)
+![Recommendations](image/s2.png)
 
 | # | Recommendation | Based On |
 |---|---|---|
